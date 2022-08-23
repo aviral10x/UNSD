@@ -4,7 +4,7 @@ import { Button } from "react-bootstrap"
 
 const uauth = new UAuth({
     clientID: "1dbe95d7-dc99-443b-a07c-b7cc09da2e0a",
-    redirectUri: "http://localhost:3000",
+    redirectUri: "https://plants-and-pillars-unsd.vercel.app/",
 })
 
 function UDomain() {
